@@ -22,5 +22,5 @@ The Contrackts platform automates complex, multi-step workflows across your busi
 
 ## Live Demo avaiable with Metamask and Setting up Mumbai Chain
 www.contrackts.net 
-[a](https://app.contrackts.net/) 
+[app](https://app.contrackts.net/) 
 ![Screenshot from 2024-02-14 15-16-38](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ece9711a-7da6-4e39-8d76-a0403abe4df3)
