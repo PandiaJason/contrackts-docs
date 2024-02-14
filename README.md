@@ -1,8 +1,7 @@
 # contrackts-docs
 
-### No official support now.
+**Notice**This is a proof of concept for ultizing Blockchain as a service for any Workflow automation. 
 
-We pioneered the proof of concept for various services using blockchains with a live website (will end in 2024). 
 
 ## Introduction
 Contrackts (blockchain smart contracts as a service) provides cutting-edge, decentralized solutions to help businesses enhance transparency, efficiency, and innovation across complex ecosystems.
