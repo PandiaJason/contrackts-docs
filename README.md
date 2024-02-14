@@ -22,16 +22,19 @@ The Contrackts platform automates complex, multi-step workflows across your busi
 ## Live Demo available with Metamask and Setting up Mumbai Chain
 
 Setup Metamask with [Contrackts](https://www.contrackts.net/)
-![Screenshot from 2024-02-14 15-40-17](https://github.com/PandiaJason/contrackts-docs/assets/100123063/e09f72ec-94af-4f41-be66-71a5d22ae1df)
+![Metamask Setup](https://github.com/PandiaJason/contrackts-docs/assets/100123063/e09f72ec-94af-4f41-be66-71a5d22ae1df)
 
 [Access the Live Demo](https://app.contrackts.net/)
-![Screenshot from 2024-02-14 15-16-38](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ece9711a-7da6-4e39-8d76-a0403abe4df3)
+![Live Demo](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ece9711a-7da6-4e39-8d76-a0403abe4df3)
 
 ## Manufacturer
-![Screenshot from 2024-02-14 15-45-55](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ac6c5c92-c8c3-4c2a-95d2-505a52478f95)
-## Buyers
-![Screenshot from 2024-02-14 15-21-04](https://github.com/PandiaJason/contrackts-docs/assets/100123063/6293b9eb-04e8-4eea-a4ce-640ba91e7d70)
+![Manufacturer Interface](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ac6c5c92-c8c3-4c2a-95d2-505a52478f95)
 
+## Buyers
+![Buyers Interface](https://github.com/PandiaJason/contrackts-docs/assets/100123063/6293b9eb-04e8-4eea-a4ce-640ba91e7d70)
+
+## Full Automation for any Project Lifecycle
+![Project Lifecycle Automation](https://github.com/PandiaJason/contrackts-docs/assets/100123063/8dff7b2d-6b79-45eb-acd9-acae09523c8f)
 
 ## Reference
 [1] [www.contrackts.net](https://www.contrackts.net)  
