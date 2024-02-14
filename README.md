@@ -1,21 +1,18 @@
 # Contrackts - A Blockchain based end to end trasabiltiy
  
-**Notice:** This is a proof of concept for utilizing Blockchain as a service for any Workflow automation.
+**Notice:** This is a proof of concept for utilizing Blockchain as a service for any end to end trasability.
 
+Contrackts (blockchain smart contracts as a service) provides decentralized solutions to help businesses enhance transparency, efficiency, and innovation across complex ecosystems.
 
-## Introduction
-Contrackts (blockchain smart contracts as a service) provides cutting-edge, decentralized solutions to help businesses enhance transparency, efficiency, and innovation across complex ecosystems.
+## End-to-end Traceability
+The Contrackts Proof of Concept (PoC) automates complex, multi-step workflows across any business via seamless integration and smart contracts. Built-in self-executing triggers appropriate actions across your network in real-time based on activity. Smart contracts encode rules to connect events to responses.
 
-## Workflows Automation
-The Contrackts PoC automates complex, multi-step workflows across your business via seamless integration and smart contracts. Built-in automation triggers appropriate actions across your network in real-time based on activity. Smart contracts encode rules to connect events to responses.
 
 ## Try Live Demo available with Metamask and Setting up Mumbai Chain
 
 Setup Metamask with [Contrackts](https://www.contrackts.net/)
 
 ![Metamask Setup](https://github.com/PandiaJason/contrackts-docs/assets/100123063/e09f72ec-94af-4f41-be66-71a5d22ae1df)
-
-[Access the Live Demo](https://app.contrackts.net/)
 
 ## Login Page
 ![Live Demo](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ece9711a-7da6-4e39-8d76-a0403abe4df3)
