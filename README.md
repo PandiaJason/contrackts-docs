@@ -1,6 +1,6 @@
 # Contrackts - A Blockchain based end to end trasabiltiy
  
-**Notice**This is a proof of concept for ultizing Blockchain as a service for any Workflow automation. 
+**Notice:** This is a proof of concept for utilizing Blockchain as a service for any Workflow automation.
 
 
 ## Introduction
