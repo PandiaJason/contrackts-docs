@@ -19,8 +19,15 @@ Contrackts offers an enterprise asset management solution that leverages blockch
 ## Workflows Automation
 The Contrackts platform automates complex, multi-step workflows across your business via seamless integration and smart contracts. Built-in automation triggers appropriate actions across your network in real-time based on activity. Smart contracts encode rules to connect events to responses.
 
+## Live Demo available with Metamask and Setting up Mumbai Chain
 
-## Live Demo avaiable with Metamask and Setting up Mumbai Chain
-www.contrackts.net 
-[app](https://app.contrackts.net/) 
+Setup Metamask with [Contrackts](https://www.contrackts.net/)
+![Screenshot from 2024-02-14 15-40-17](https://github.com/PandiaJason/contrackts-docs/assets/100123063/e09f72ec-94af-4f41-be66-71a5d22ae1df)
+
+[Access the Live Demo](https://app.contrackts.net/)
 ![Screenshot from 2024-02-14 15-16-38](https://github.com/PandiaJason/contrackts-docs/assets/100123063/ece9711a-7da6-4e39-8d76-a0403abe4df3)
+
+## Reference
+[1] [www.contrackts.net](https://www.contrackts.net)  
+[2] [Metamask](https://metamask.io/)
+
