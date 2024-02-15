@@ -1,6 +1,6 @@
 # Contrackts - A Blockchain-based End-to-End Traceability
 
-**Notice:** This is a proof of concept for utilizing Blockchain as a service for any end-to-end traceability.
+**Notice:** This is a proof of concept for utilizing Blockchain as a service for end-to-end traceability. However, it can be built to integrate total supply chain components into it.
 
 - Contracts provide end-to-end bloackchain solutions to help businesses enhance transparency, efficiency, and innovation across complex ecosystems. 
 - It utilizes the power of smart contracts and a web framework for seamless product traceability.
