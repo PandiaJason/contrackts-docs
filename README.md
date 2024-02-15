@@ -2,7 +2,8 @@
 
 **Notice:** This is a proof of concept for utilizing Blockchain as a service for any end-to-end traceability.
 
-Contrackts (blockchain smart contracts as a service) provides decentralized solutions to help businesses enhance transparency, efficiency, and innovation across complex ecosystems.
+- Contracts provide end-to-end solutions to help businesses enhance transparency, efficiency, and innovation across complex ecosystems. 
+- It utilizes the power of smart contracts and a web framework for seamless product traceability.
 
 ## End-to-End Traceability
 
